@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xmap-styles
+	xmlns="urn:xmind:xmap:xmlns:style:2.0"
+	xmlns:fo="http://www.w3.org/1999/XSL/Format"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	version="2.0"
+>
+	<styles>
+		<style id="4e6lc9443fj9iagt6h78tt2tca" name="Filesystem - Directory" type="topic">
+			<topic-properties
+				border-line-color="#DFDFDF"
+				border-line-width="2pt"
+				fo:color="#002FEF"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="8pt"
+				line-class="org.xmind.branchConnection.elbow"
+				line-color="#DFDFDF"
+				line-width="2pt"
+				shape-class="org.xmind.topicShape.underline"
+				svg:fill="#1F1F1F"
+			/>
+		</style>
+		<style id="38lesdpof37oucj7doapad0cld" name="Filesystem - File" type="topic">
+			<topic-properties
+				border-line-color="#DFDFDF"
+				border-line-width="2pt"
+				fo:color="#FFFFEF"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="8pt"
+				line-class="org.xmind.branchConnection.roundedElbow"
+				line-color="#DFDFDF"
+				line-width="2pt"
+				shape-class="org.xmind.topicShape.underline"
+				svg:fill="#1F1F1F"
+			/>
+		</style>
+		<style id="77muhutqu2632r38a8me3r2ooj" name="Filesystem - Symlink" type="topic">
+			<topic-properties
+				border-line-color="#DFDFDF"
+				border-line-width="2pt"
+				fo:color="#00BFBF"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="8pt"
+				line-class="org.xmind.branchConnection.roundedElbow"
+				line-color="#DFDFDF"
+				line-width="2pt"
+				shape-class="org.xmind.topicShape.underline"
+				svg:fill="#1F1F1F"
+			/>
+		</style>
+		<style id="15fgtsogl4agb14q41vgjt9nup" name="Filesystem - Mountpoint disk" type="topic">
+			<topic-properties
+				border-line-color="#00BF00"
+				border-line-width="2pt"
+				fo:color="#002FEF"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="8pt"
+				line-class="org.xmind.branchConnection.elbow"
+				line-color="#DFDFDF"
+				line-width="2pt"
+				shape-class="org.xmind.topicShape.underline"
+				svg:fill="#001F00"
+			/>
+		</style>
+		<style id="3fl29go4qv1fkvkh56fdu8vicg" name="Filesystem - Mountpoint system" type="topic">
+			<topic-properties
+				border-line-color="#BF0000"
+				border-line-width="2pt"
+				fo:color="#002FEF"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="8pt"
+				line-class="org.xmind.branchConnection.elbow"
+				line-color="#DFDFDF"
+				line-width="2pt"
+				shape-class="org.xmind.topicShape.underline"
+				svg:fill="#1F0000"
+			/>
+		</style>
+		<style id="59f8gvtubd4766k1gp77v12908" name="Filesystem - Mountpoint tmpfs" type="topic">
+			<topic-properties
+				border-line-color="#BF00BF"
+				border-line-width="2pt"
+				fo:color="#002FEF"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="8pt"
+				line-class="org.xmind.branchConnection.elbow"
+				line-color="#DFDFDF"
+				line-width="2pt"
+				shape-class="org.xmind.topicShape.underline"
+				svg:fill="#1F001F"
+			/>
+		</style>
+		<style id="363furqvucq8o7i48ub2i46ajd" name="Filesystem - Symlink" type="relationship">
+			<relationship-properties
+				arrow-begin-class="org.xmind.arrowShape.square"
+				arrow-end-class="org.xmind.arrowShape.triangle"
+				fo:color="#FFFFEF"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="8pt"
+				fo:font-style="italic"
+				fo:font-weight="normal"
+				fo:text-decoration="none"
+				line-color="#00BFBF"
+				line-pattern="dash"
+				line-width="3pt"
+				shape-class="org.xmind.relationshipShape.curved"
+			/>
+		</style>
+		<style id="2u3lnm0vm0lp1pnr39683671eb" name="Filesystem - Hardlink" type="relationship">
+			<relationship-properties
+				arrow-begin-class="org.xmind.arrowShape.square"
+				arrow-end-class="org.xmind.arrowShape.triangle"
+				fo:color="#FFFFEF"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="8pt"
+				fo:font-style="italic"
+				fo:font-weight="normal"
+				fo:text-decoration="none"
+				line-color="#00BF00"
+				line-pattern="dash"
+				line-width="3pt"
+				shape-class="org.xmind.relationshipShape.curved"
+			/>
+		</style>
+		<style id="2s795ctn9s2209tnrofkd0qfn6" name="Filesystem - Mountpoint" type="relationship">
+			<relationship-properties
+				arrow-begin-class="org.xmind.arrowShape.square"
+				arrow-end-class="org.xmind.arrowShape.triangle"
+				fo:color="#FFFFEF"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="8pt"
+				fo:font-style="italic"
+				fo:font-weight="normal"
+				fo:text-decoration="none"
+				line-color="#00BF00"
+				line-pattern="solid"
+				line-width="3pt"
+				shape-class="org.xmind.relationshipShape.curved"
+			/>
+		</style>
+	</styles>
+</xmap-styles>

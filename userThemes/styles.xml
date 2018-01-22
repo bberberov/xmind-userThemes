@@ -12,9 +12,20 @@
 				color-gradient="none"
 				line-tapered="none"
 				multi-line-colors="none"
-				svg:fill="#FFFFEE"
+				svg:fill="#FFFFEF"
 			/>
 		</style>
+
+		<!-- Map - Flat Dark -->
+		<style id="3hvdg2pi1maej20c8vhchsoema" type="map">
+			<map-properties
+				color-gradient="none"
+				line-tapered="none"
+				multi-line-colors="none"
+				svg:fill="#0F0F0F"
+			/>
+		</style>
+
 
 		<!-- Central Topic - GTD Inbox -->
 		<style id="7n7o6qcrvs1k7et7lg3bo3kehs" type="topic">
@@ -260,129 +271,119 @@
 			/>
 		</style>
 
-		<!-- Map - Flat Dark -->
-		<style id="62k0bknh9v718pn92fi77ioc19" type="map">
-			<map-properties
-				color-gradient="none"
-				line-tapered="none"
-				multi-line-colors="none"
-				svg:fill="#111111"
-			/>
-		</style>
-
 
 
 		<!-- Central Topic - Filesystem -->
-		<style id="7d7gevas7u2pci094h6tamrv5s" type="topic">
+		<style id="22kmsp9mderouihu9pqdmlu7cb" type="topic">
 			<topic-properties
-				border-line-color="#CCCCCC"
-				border-line-width="1pt"
-				fo:color="#FFFFFF"
+				border-line-color="#DFDFDF"
+				border-line-width="2pt"
+				fo:color="#FFFFEF"
 				fo:font-family="Source Sans Pro"
 				fo:font-size="12pt"
-				line-class="org.xmind.branchConnection.roundedElbow"
-				line-color="#CCCCCC"
-				line-width="1pt"
-				shape-class="org.xmind.topicShape.circle"
+				line-class="org.xmind.branchConnection.elbow"
+				line-color="#DFDFDF"
+				line-width="2pt"
+				shape-class="org.xmind.topicShape.diamond"
 				structure-class="org.xmind.ui.org-chart.down"
-				svg:fill="#000055"
+				svg:fill="#001F6F"
 			/>
 		</style>
 
 		<!-- Main Topic - Filesystem -->
-		<style id="5cp5eq1clcrrh2o8vcg489240l" type="topic">
+		<style id="478012oj0m60mog4vdrebc0n33" type="topic">
 			<topic-properties
-				border-line-color="#CCCCCC"
-				border-line-width="1pt"
-				fo:color="#FFFFFF"
+				border-line-color="#DFDFDF"
+				border-line-width="2pt"
+				fo:color="#002FEF"
 				fo:font-family="Source Sans Pro"
-				fo:font-size="10pt"
-				line-class="org.xmind.branchConnection.roundedElbow"
-				line-color="#CCCCCC"
-				line-width="1pt"
-				shape-class="org.xmind.topicShape.ellipse"
-				svg:fill="#333333"
+				fo:font-size="8pt"
+				line-class="org.xmind.branchConnection.elbow"
+				line-color="#DFDFDF"
+				line-width="2pt"
+				shape-class="org.xmind.topicShape.underline"
+				svg:fill="#1F1F1F"
 			/>
 		</style>
 
-		<!-- Sub-Topic - Filesystem -->
-		<style id="6lvuo8p9l1bk25rdm2hf81rqvh" type="topic">
+		<!-- Sub-Topic - Filesystem (Directory) -->
+		<style id="7hkcmj38h0ia7tiajc1vg2k3uv" type="topic">
 			<topic-properties
-				border-line-color="#CCCCCC"
-				border-line-width="1pt"
-				fo:color="#FFFFFF"
+				border-line-color="#DFDFDF"
+				border-line-width="2pt"
+				fo:color="#002FEF"
 				fo:font-family="Source Sans Pro"
 				fo:font-size="8pt"
-				line-class="org.xmind.branchConnection.roundedElbow"
-				line-color="#CCCCCC"
-				line-width="1pt"
-				shape-class="org.xmind.topicShape.ellipse"
-				svg:fill="#333333"
+				line-class="org.xmind.branchConnection.elbow"
+				line-color="#DFDFDF"
+				line-width="2pt"
+				shape-class="org.xmind.topicShape.underline"
+				svg:fill="#1F1F1F"
 			/>
 		</style>
 
 		<!-- Boundary - Filesystem -->
-		<style id="3iiknts2jm7rgvtgvfh9b6ccrc" type="boundary">
+		<style id="5a0jo765rvvmopah8p6cb8fmji" type="boundary">
 			<boundary-properties
-				fo:color="#000000"
+				fo:color="#FFFFEF"
 				fo:font-family="Source Sans Pro"
 				fo:font-size="8pt"
 				fo:font-weight="bold"
 				fo:font-style="italic"
-				line-color="#CCCCCC"
+				line-color="#DFDFDF"
 				line-pattern="dash"
 				line-width="3pt"
 				shape-class="org.xmind.boundaryShape.roundedRect"
-				svg:fill="#FFFFFF"
+				svg:fill="#FFFFEF"
 				svg:opacity=".2"
 			/>
 		</style>
 
 		<!-- Symmary - Filesystem -->
-		<style id="5fftpng2nob331lmip5gn9833h" type="summary">
+		<style id="55kfnj3u9hns4q8rtk5d5o211k" type="summary">
 			<summary-properties
-				line-color="#CCCCCC"
+				line-color="#2F2F2F"
 				line-width="3pt"
 				shape-class="org.xmind.summaryShape.square"
 			/>
 		</style>
 
 		<!-- Symmary Topic - Filesystem -->
-		<style id="1ec2cmssetkt1ne2mmp9kspq62" type="topic">
+		<style id="3m5q4506e66rj46cce34d15mbj" type="topic">
 			<topic-properties
-				border-line-color="#CCCCCC"
-				border-line-width="3pt"
-				fo:color="#000000"
+				border-line-color="#FFFFEF"
+				border-line-width="2pt"
+				fo:color="#FFFFEF"
 				fo:font-family="Source Sans Pro"
 				fo:font-size="8pt"
 				fo:font-weight="normal"
 				line-class="org.xmind.branchConnection.curve"
-				line-color="#CCCCCC"
-				line-width="1pt"
+				line-color="#FFFFEF"
+				line-width="2pt"
 				shape-class="org.xmind.topicShape.roundedRect"
-				svg:fill="#EEEEEE"
+				svg:fill="#2F2F2F"
 			/>
 		</style>
 
 		<!-- Floating Topic - Filesystem -->
-		<style id="6ca06qhkmfip9d8ueueh2f1n07" type="topic">
+		<style id="1run7v5u9m89tau80h415js2mj" type="topic">
 			<topic-properties
-				border-line-color="#CCCCCC"
-				border-line-width="1pt"
-				fo:color="#FFFFFF"
+				border-line-color="#FFFFEF"
+				border-line-width="2pt"
+				fo:color="#FFFFEF"
 				fo:font-family="Source Sans Pro"
-				fo:font-size="10pt"
-				fo:font-weight="bold"
-				line-class="org.xmind.branchConnection.roundedElbow"
-				line-color="#CCCCCC"
-				line-width="1pt"
-				shape-class="org.xmind.topicShape.roundedRect"
-				svg:fill="#000055"
+				fo:font-size="8pt"
+				fo:font-weight="normal"
+				line-class="org.xmind.branchConnection.elbow"
+				line-color="#FFFFEF"
+				line-width="2pt"
+				shape-class="org.xmind.topicShape.rect"
+				svg:fill="#2F2F2F"
 			/>
 		</style>
 
 		<!-- Callout Topic - Filesystem -->
-		<style id="24palvigb7obugub9qvkhafjop" type="topic">
+		<style id="40nha1c50ee6nu3anno1hmar2q" type="topic">
 			<topic-properties
 				border-line-color="#F1BD51"
 				border-line-width="2pt"
@@ -392,20 +393,21 @@
 			/>
 		</style>
 
-		<!-- Relationship - Filesystem -->
-		<style id="12ot65r48d2b82rbpvmjbdohjs" type="relationship">
+		<!-- Relationship - Filesystem (Symlink) -->
+		<style id="4flbg1frtovch4c29pqbrq2oho" type="relationship">
 			<relationship-properties
 				arrow-begin-class="org.xmind.arrowShape.square"
 				arrow-end-class="org.xmind.arrowShape.triangle"
-				fo:color="#FFFFFF"
+				fo:color="#FFFFEF"
 				fo:font-family="Source Sans Pro"
 				fo:font-size="8pt"
 				fo:font-style="italic"
 				fo:font-weight="normal"
 				fo:text-decoration="none"
-				line-color="#00CCCC"
+				line-color="#00BFBF"
 				line-pattern="solid"
 				line-width="3pt"
+				shape-class="org.xmind.relationshipShape.curved"
 			/>
 		</style>
 
@@ -485,16 +487,16 @@
 		</style>
 		<style id="4lqoq1orsl3u1s7522cj3r7564" name="Filesystem" type="theme">
 			<theme-properties>
-				<default-style style-family="map" style-id="62k0bknh9v718pn92fi77ioc19"/>
-				<default-style style-family="centralTopic" style-id="7d7gevas7u2pci094h6tamrv5s"/>
-				<default-style style-family="mainTopic" style-id="5cp5eq1clcrrh2o8vcg489240l"/>
-				<default-style style-family="subTopic" style-id="6lvuo8p9l1bk25rdm2hf81rqvh"/>
-				<default-style style-family="boundary" style-id="3iiknts2jm7rgvtgvfh9b6ccrc"/>
-				<default-style style-family="summary" style-id="5fftpng2nob331lmip5gn9833h"/>
-				<default-style style-family="summaryTopic" style-id="1ec2cmssetkt1ne2mmp9kspq62"/>
-				<default-style style-family="floatingTopic" style-id="6ca06qhkmfip9d8ueueh2f1n07"/>
-				<default-style style-family="calloutTopic" style-id="24palvigb7obugub9qvkhafjop"/>
-				<default-style style-family="relationship" style-id="12ot65r48d2b82rbpvmjbdohjs"/>
+				<default-style style-family="map" style-id="3hvdg2pi1maej20c8vhchsoema"/><!-- Map - Flat Dark -->
+				<default-style style-family="centralTopic" style-id="22kmsp9mderouihu9pqdmlu7cb"/>
+				<default-style style-family="mainTopic" style-id="478012oj0m60mog4vdrebc0n33"/>
+				<default-style style-family="subTopic" style-id="7hkcmj38h0ia7tiajc1vg2k3uv"/><!-- Sub-Topic - Filesystem (Directory) -->
+				<default-style style-family="boundary" style-id="5a0jo765rvvmopah8p6cb8fmji"/>
+				<default-style style-family="summary" style-id="55kfnj3u9hns4q8rtk5d5o211k"/>
+				<default-style style-family="summaryTopic" style-id="3m5q4506e66rj46cce34d15mbj"/>
+				<default-style style-family="floatingTopic" style-id="1run7v5u9m89tau80h415js2mj"/>
+				<default-style style-family="calloutTopic" style-id="40nha1c50ee6nu3anno1hmar2q"/>
+				<default-style style-family="relationship" style-id="4flbg1frtovch4c29pqbrq2oho"/><!-- Relationship - Filesystem (Symlink) -->
 			</theme-properties>
 		</style>
 	</master-styles>
