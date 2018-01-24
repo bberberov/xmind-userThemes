@@ -16,6 +16,16 @@
 			/>
 		</style>
 
+		<!-- Map - Flat Midtone -->
+		<style id="6gmn32bm9bs2irveh106vkj2un" type="map">
+			<map-properties
+				color-gradient="none"
+				line-tapered="none"
+				multi-line-colors="none"
+				svg:fill="#CFCFBF"
+			/>
+		</style>
+
 		<!-- Map - Flat Dark -->
 		<style id="3hvdg2pi1maej20c8vhchsoema" type="map">
 			<map-properties
@@ -413,6 +423,151 @@
 
 
 
+		<!-- Central Topic - Plain -->
+		<style id="0dd7gle4ghjpfomvaqapju9h0b" type="topic">
+			<topic-properties
+				border-line-color="#000000"
+				border-line-width="5pt"
+				fo:color="#000000"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="12pt"
+				line-class="org.xmind.branchConnection.curve"
+				line-color="#000000"
+				line-width="2pt"
+				shape-class="org.xmind.topicShape.circle"
+				structure-class="org.xmind.ui.org-chart.down"
+				svg:fill="#FFFFFF"
+			/>
+		</style>
+
+		<!-- Main Topic - Plain -->
+		<style id="7br4iueknkki5nrecmghelv4rm" type="topic">
+			<topic-properties
+				border-line-color="#000000"
+				border-line-width="3pt"
+				fo:color="#000000"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="10pt"
+				line-class="org.xmind.branchConnection.roundedElbow"
+				line-color="#000000"
+				line-width="2pt"
+				shape-class="org.xmind.topicShape.roundedRect"
+				svg:fill="#FFFFFF"
+			/>
+		</style>
+
+		<!-- Sub-Topic - Plain -->
+		<style id="21dejiauefj2i79smc1526hhn3" type="topic">
+			<topic-properties
+				border-line-color="#000000"
+				border-line-width="2pt"
+				fo:color="#000000"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="8pt"
+				line-class="org.xmind.branchConnection.roundedElbow"
+				line-color="#000000"
+				line-width="2pt"
+				shape-class="org.xmind.topicShape.underline"
+				svg:fill="none"
+			/>
+		</style>
+
+		<!-- Boundary - Plain -->
+		<style id="09clksv1fkcmda5mo9n6p641gs" type="boundary">
+			<boundary-properties
+				fo:color="#000000"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="8pt"
+				fo:font-weight="bold"
+				fo:font-style="italic"
+				line-color="#000000"
+				line-pattern="dash"
+				line-width="3pt"
+				shape-class="org.xmind.boundaryShape.roundedRect"
+				svg:fill="#FFFFFF"
+				svg:opacity=".2"
+			/>
+		</style>
+
+		<!-- Symmary - Plain -->
+		<style id="0dm755vapvb5a9v3de6i2d2gal" type="summary">
+			<summary-properties
+				line-color="#000000"
+				line-width="3pt"
+				shape-class="org.xmind.summaryShape.square"
+			/>
+		</style>
+
+		<!-- Symmary Topic - Plain -->
+		<style id="2rsv5qvvj6ssl7279e8kb7bap0" type="topic">
+			<topic-properties
+				border-line-color="#000000"
+				border-line-width="2pt"
+				fo:color="#000000"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="8pt"
+				fo:font-weight="normal"
+				line-class="org.xmind.branchConnection.roundedElbow"
+				line-color="#000000"
+				line-width="2pt"
+				shape-class="org.xmind.topicShape.rect"
+				svg:fill="#FFFFFF"
+			/>
+		</style>
+
+		<!-- Floating Topic - Plain -->
+		<style id="3ufinqjc36b2vg30c16u3od0tt" type="topic">
+			<topic-properties
+				border-line-color="#000000"
+				border-line-width="3pt"
+				fo:color="#000000"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="10pt"
+				fo:font-weight="normal"
+				line-class="org.xmind.branchConnection.roundedElbow"
+				line-color="#000000"
+				line-width="2pt"
+				shape-class="org.xmind.topicShape.roundedRect"
+				svg:fill="#FFFFFF"
+			/>
+		</style>
+
+		<!-- Callout Topic - Plain -->
+		<style id="1c67cglnip65302hlou1cg0pq5" type="topic">
+			<topic-properties
+				border-line-color="#000000"
+				border-line-width="2pt"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="8pt"
+				fo:font-weight="normal"
+				fo:text-decoration="none"
+				line-class="org.xmind.branchConnection.roundedElbow"
+				line-color="#000000"
+				line-width="2pt"
+				svg:fill="#FFFF9F"
+			/>
+		</style>
+
+		<!-- Relationship - Plain -->
+		<style id="0v3ec3lrmk10dom9jqvqbbng5e" type="relationship">
+			<relationship-properties
+				arrow-begin-class="org.xmind.arrowShape.square"
+				arrow-end-class="org.xmind.arrowShape.triangle"
+				fo:color="#000000"
+				fo:font-family="Source Sans Pro"
+				fo:font-size="8pt"
+				fo:font-style="italic"
+				fo:font-weight="normal"
+				fo:text-decoration="none"
+				line-color="#000000"
+				line-pattern="solid"
+				line-width="3pt"
+				shape-class="org.xmind.relationshipShape.curved"
+			/>
+		</style>
+
+		
+		
 	</automatic-styles>
 	<master-styles>
 		<style id="7of91qhd66p59kb1fb7eq0p8pv" name="GTD Inbox" type="theme">
@@ -497,6 +652,20 @@
 				<default-style style-family="floatingTopic" style-id="1run7v5u9m89tau80h415js2mj"/>
 				<default-style style-family="calloutTopic" style-id="40nha1c50ee6nu3anno1hmar2q"/>
 				<default-style style-family="relationship" style-id="4flbg1frtovch4c29pqbrq2oho"/><!-- Relationship - Filesystem (Symlink) -->
+			</theme-properties>
+		</style>
+		<style id="7t8celdhjtfqp70oncckoi7bpd" name="Plain" type="theme">
+			<theme-properties>
+				<default-style style-family="map" style-id="6gmn32bm9bs2irveh106vkj2un"/><!-- Map - Flat Midtone -->
+				<default-style style-family="centralTopic" style-id="0dd7gle4ghjpfomvaqapju9h0b"/>
+				<default-style style-family="mainTopic" style-id="7br4iueknkki5nrecmghelv4rm"/>
+				<default-style style-family="subTopic" style-id="21dejiauefj2i79smc1526hhn3"/>
+				<default-style style-family="boundary" style-id="09clksv1fkcmda5mo9n6p641gs"/>
+				<default-style style-family="summary" style-id="0dm755vapvb5a9v3de6i2d2gal"/>
+				<default-style style-family="summaryTopic" style-id="2rsv5qvvj6ssl7279e8kb7bap0"/>
+				<default-style style-family="floatingTopic" style-id="3ufinqjc36b2vg30c16u3od0tt"/>
+				<default-style style-family="calloutTopic" style-id="1c67cglnip65302hlou1cg0pq5"/>
+				<default-style style-family="relationship" style-id="0v3ec3lrmk10dom9jqvqbbng5e"/>
 			</theme-properties>
 		</style>
 	</master-styles>
