@@ -16,6 +16,7 @@ Includes:
 	- Links
 		- Soft
 		- Hard
+- Plain theme
 
 ### Requirements
 
