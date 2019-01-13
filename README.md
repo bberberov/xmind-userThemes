@@ -1,26 +1,29 @@
-# XMind custom themes and styles
+# [XMind](https://github.com/xmindltd/xmind) custom themes and styles
 
-Custom themes and styles for [XMind](https://github.com/xmindltd/xmind).
+### Themes
 
-Includes:
+##### Plain
 
-- GTD theme
-	- deprecated
-- Filesystem theme with styles for:
-	- Files
-	- Directories
-	- Mountpoints
-		- disk
-		- tmpfs
-		- system (/proc, /sys, etc.)
-	- Links
-		- Soft
-		- Hard
-- Plain theme
+##### Plain : Borderless
+
+##### Filesystem
+
+Includes styles for:
+
+-	Directories (default)
+-	Files
+-	Mountpoints
+	-	Disk
+	-	`tmpfs`
+	-	System (`/dev`, `/proc`, `/sys`, etc.)
+-	Links
+	-	Soft
+	-	Hard
+-	Worktree (`git`, `hg` `bzr`, etc.)
 
 ### Requirements
 
-The themes use the [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro) font.
+The themes use the [Roboto](https://github.com/google/roboto) font.
 
 ### Installation
 
