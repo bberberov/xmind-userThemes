@@ -1,12 +1,12 @@
 # [XMind](https://github.com/xmindltd/xmind) custom themes and styles
 
-### Themes
+## Themes
 
-##### Plain
+### Plain
 
-##### Plain : Borderless
+### Plain : Borderless
 
-##### Filesystem
+### Filesystem
 
 Includes styles for:
 
@@ -21,10 +21,10 @@ Includes styles for:
 	-	Hard
 -	Worktree (`git`, `hg` `bzr`, etc.)
 
-### Requirements
+## Requirements
 
 The themes use the [Roboto](https://github.com/google/roboto) font.
 
-### Installation
+## Installation
 
 Install into a pre-existing `workspace/styles/` directory.
