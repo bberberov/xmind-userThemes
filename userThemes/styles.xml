@@ -340,9 +340,16 @@
 				border-line-color="#0F0F0F"
 				border-line-width="3pt"
 
-				line-class="org.xmind.branchConnection.roundedElbow"
+				line-class="org.xmind.branchConnection.straight"
 				line-width="2pt"
 				line-color="#0F0F0F"
+
+				fo:margin-left="4pt"
+				fo:margin-right="4pt"
+				fo:margin-top="6pt"
+				fo:margin-bottom="6pt"
+				spacing-major="20pt"
+				spacing-minor="1pt"
 			/>
 		</style>
 
@@ -363,9 +370,16 @@
 
 				border-line-width="0pt"
 
-				line-class="org.xmind.branchConnection.roundedElbow"
+				line-class="org.xmind.branchConnection.straight"
 				line-width="2pt"
 				line-color="#0F0F0F"
+
+				fo:margin-left="4pt"
+				fo:margin-right="4pt"
+				fo:margin-top="6pt"
+				fo:margin-bottom="6pt"
+				spacing-major="20pt"
+				spacing-minor="1pt"
 			/>
 		</style>
 
@@ -562,9 +576,16 @@
 
 				border-line-width="0pt"
 
-				line-class="org.xmind.branchConnection.roundedElbow"
+				line-class="org.xmind.branchConnection.elbow"
 				line-width="2pt"
 				line-color="#000000"
+
+				fo:margin-left="4pt"
+				fo:margin-right="4pt"
+				fo:margin-top="6pt"
+				fo:margin-bottom="6pt"
+				spacing-major="12pt"
+				spacing-minor="1pt"
 			/>
 		</style>
 
