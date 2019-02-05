@@ -95,8 +95,8 @@
 
 				fo:margin-left="2pt"
 				fo:margin-right="2pt"
-				fo:margin-top="2pt"
-				fo:margin-bottom="2pt"
+				fo:margin-top="4pt"
+				fo:margin-bottom="4pt"
 				spacing-major="20pt"
 				spacing-minor="1pt"
 			/>
@@ -124,10 +124,10 @@
 				line-width="2pt"
 				line-color="#0F0F0F"
 
-				fo:margin-left="0pt"
-				fo:margin-right="0pt"
-				fo:margin-top="0pt"
-				fo:margin-bottom="0pt"
+				fo:margin-left="1pt"
+				fo:margin-right="1pt"
+				fo:margin-top="1pt"
+				fo:margin-bottom="1pt"
 				spacing-major="20pt"
 				spacing-minor="1pt"
 			/>
@@ -186,8 +186,8 @@
 
 				fo:margin-left="2pt"
 				fo:margin-right="2pt"
-				fo:margin-top="2pt"
-				fo:margin-bottom="2pt"
+				fo:margin-top="4pt"
+				fo:margin-bottom="4pt"
 				spacing-major="20pt"
 				spacing-minor="1pt"
 			/>
@@ -214,10 +214,10 @@
 				line-width="2pt"
 				line-color="#FFFFEF"
 
-				fo:margin-left="0pt"
-				fo:margin-right="0pt"
-				fo:margin-top="0pt"
-				fo:margin-bottom="0pt"
+				fo:margin-left="1pt"
+				fo:margin-right="1pt"
+				fo:margin-top="1pt"
+				fo:margin-bottom="1pt"
 				spacing-major="20pt"
 				spacing-minor="1pt"
 			/>
@@ -275,6 +275,13 @@
 				line-class="org.xmind.branchConnection.roundedElbow"
 				line-width="2pt"
 				line-color="#0F0F0F"
+
+				fo:margin-left="1pt"
+				fo:margin-right="1pt"
+				fo:margin-top="1pt"
+				fo:margin-bottom="1pt"
+				spacing-major="20pt"
+				spacing-minor="1pt"
 			/>
 		</style>
 
@@ -473,6 +480,13 @@
 				line-class="org.xmind.branchConnection.elbow"
 				line-width="2pt"
 				line-color="#3F3F3F"
+
+				fo:margin-left="0pt"
+				fo:margin-right="0pt"
+				fo:margin-top="0pt"
+				fo:margin-bottom="0pt"
+				spacing-major="12pt"
+				spacing-minor="1pt"
 			/>
 		</style>
 
