@@ -279,21 +279,11 @@
 		</style>
 
 		<!-- Floating Topic - Plain -->
-<!--		<style id="3ufinqjc36b2vg30c16u3od0tt" type="topic">
-			<topic-properties
-				border-line-color="#000000"
-				border-line-width="3pt"
-				fo:color="#000000"
-				fo:font-family="Roboto"
-				fo:font-size="10pt"
-				fo:font-weight="normal"
-				line-class="org.xmind.branchConnection.roundedElbow"
-				line-color="#000000"
-				line-width="2pt"
-				shape-class="org.xmind.topicShape.roundedRect"
-				svg:fill="#FFFFFF"
-			/>
-		</style>-->
+<!--
+		<style id="00000000000000000000000000" type="topic">
+			<topic-properties />
+		</style>
+-->
 
 		<!-- Callout Topic - Plain -->
 		<style id="3d9sdi0f63hq2lad6oa15koach" type="topic">
