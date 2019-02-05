@@ -71,6 +71,37 @@
 			/>
 		</style>
 
+		<!-- Central Topic - Plain [Org-Tree] -->
+		<style id="4frnuf8l034ofml0vrashrd5fh" type="topic">
+			<topic-properties
+				fo:font-family="Roboto"
+				fo:font-size="12pt"
+				fo:font-weight="bold"
+				fo:font-style="normal"
+				fo:text-decoration="none"
+				fo:color="#0F0F0F"
+				fo:text-align="center"
+				fo:text-transform="manual"
+
+				shape-class="org.xmind.topicShape.rect"
+				svg:fill="#FFFFEF"
+
+				border-line-width="5pt"
+				border-line-color="#0F0F0F"
+
+				line-class="org.xmind.branchConnection.elbow"
+				line-width="3pt"
+				line-color="#0F0F0F"
+
+				fo:margin-left="18pt"
+				fo:margin-right="18pt"
+				fo:margin-top="18pt"
+				fo:margin-bottom="18pt"
+				spacing-major="12pt"
+				spacing-minor="12pt"
+			/>
+		</style>
+
 		<!-- Main + Floating Topic - Plain -->
 		<style id="6b4273mbaslmf4umrhomv8r2b1" type="topic">
 			<topic-properties
@@ -98,6 +129,37 @@
 				fo:margin-top="4pt"
 				fo:margin-bottom="4pt"
 				spacing-major="20pt"
+				spacing-minor="1pt"
+			/>
+		</style>
+
+		<!-- Main + Floating Topic - Plain [Org-Tree]-->
+		<style id="376ug77u1af3huekaabjh4ai9v" type="topic">
+			<topic-properties
+				fo:font-family="Roboto"
+				fo:font-size="10pt"
+				fo:font-weight="normal"
+				fo:font-style="normal"
+				fo:text-decoration="none"
+				fo:color="#0F0F0F"
+				fo:text-align="center"
+				fo:text-transform="manual"
+
+				shape-class="org.xmind.topicShape.roundedRect"
+				svg:fill="#FFFFEF"
+
+				border-line-width="3pt"
+				border-line-color="#0F0F0F"
+
+				line-class="org.xmind.branchConnection.elbow"
+				line-width="2pt"
+				line-color="#0F0F0F"
+
+				fo:margin-left="2pt"
+				fo:margin-right="2pt"
+				fo:margin-top="4pt"
+				fo:margin-bottom="4pt"
+				spacing-major="12pt"
 				spacing-minor="1pt"
 			/>
 		</style>
@@ -133,6 +195,37 @@
 			/>
 		</style>
 
+		<!-- Sub-Topic - Plain [Org-Tree] -->
+		<style id="09vn1t9iv17vg9jvlijcbusvqg" type="topic">
+			<topic-properties
+				fo:font-family="Roboto"
+				fo:font-size="8pt"
+				fo:font-weight="normal"
+				fo:font-style="normal"
+				fo:text-decoration="none"
+				fo:color="#0F0F0F"
+				fo:text-align="left"
+				fo:text-transform="manual"
+
+				shape-class="org.xmind.topicShape.underline"
+				svg:fill="none"
+
+				border-line-width="2pt"
+				border-line-color="#0F0F0F"
+
+				line-class="org.xmind.branchConnection.elbow"
+				line-width="2pt"
+				line-color="#0F0F0F"
+
+				fo:margin-left="1pt"
+				fo:margin-right="1pt"
+				fo:margin-top="1pt"
+				fo:margin-bottom="1pt"
+				spacing-major="12pt"
+				spacing-minor="1pt"
+			/>
+		</style>
+
 		<!-- Central Topic - Plain : Borderless -->
 		<style id="5klsag8eicfa1pejlluvt7sn97" type="topic">
 			<topic-properties
@@ -160,6 +253,36 @@
 				fo:margin-bottom="18pt"
 				spacing-major="48pt"
 				spacing-minor="2pt"
+			/>
+		</style>
+
+		<!-- Central Topic - Plain : Borderless [Org-Tree] -->
+		<style id="5u9lsjoir3undddtud9f5odml8" type="topic">
+			<topic-properties
+				fo:font-family="Roboto"
+				fo:font-size="12pt"
+				fo:font-weight="bold"
+				fo:font-style="normal"
+				fo:text-decoration="none"
+				fo:color="#0F0F0F"
+				fo:text-align="center"
+				fo:text-transform="manual"
+
+				shape-class="org.xmind.topicShape.rect"
+				svg:fill="#FFFFEF"
+
+				border-line-width="0pt"
+
+				line-class="org.xmind.branchConnection.elbow"
+				line-width="3pt"
+				line-color="#FFFFEF"
+
+				fo:margin-left="18pt"
+				fo:margin-right="18pt"
+				fo:margin-top="18pt"
+				fo:margin-bottom="18pt"
+				spacing-major="12pt"
+				spacing-minor="12pt"
 			/>
 		</style>
 
@@ -193,6 +316,36 @@
 			/>
 		</style>
 
+		<!-- Main + Floating Topic - Plain : Borderless [Org-Tree] -->
+		<style id="3pdr1q3qvkp51tv6umfk2tl9r3" type="topic">
+			<topic-properties
+				fo:font-family="Roboto"
+				fo:font-size="10pt"
+				fo:font-weight="normal"
+				fo:font-style="normal"
+				fo:text-decoration="none"
+				fo:color="#0F0F0F"
+				fo:text-align="center"
+				fo:text-transform="manual"
+
+				shape-class="org.xmind.topicShape.roundedRect"
+				svg:fill="#FFFFEF"
+
+				border-line-width="0pt"
+
+				line-class="org.xmind.branchConnection.elbow"
+				line-width="2pt"
+				line-color="#FFFFEF"
+
+				fo:margin-left="2pt"
+				fo:margin-right="2pt"
+				fo:margin-top="4pt"
+				fo:margin-bottom="4pt"
+				spacing-major="12pt"
+				spacing-minor="1pt"
+			/>
+		</style>
+
 		<!-- Sub-Topic - Plain : Borderless -->
 		<style id="2j82kn0ra59hgk60m8cc0uf30j" type="topic">
 			<topic-properties
@@ -219,6 +372,36 @@
 				fo:margin-top="1pt"
 				fo:margin-bottom="1pt"
 				spacing-major="20pt"
+				spacing-minor="1pt"
+			/>
+		</style>
+
+		<!-- Sub-Topic - Plain : Borderless [Org-Tree] -->
+		<style id="2c401ai6q8e7t2elmo08kumh26" type="topic">
+			<topic-properties
+				fo:font-family="Roboto"
+				fo:font-size="8pt"
+				fo:font-weight="normal"
+				fo:font-style="normal"
+				fo:text-decoration="none"
+				fo:color="#0F0F0F"
+				fo:text-align="left"
+				fo:text-transform="manual"
+
+				shape-class="org.xmind.topicShape.rect"
+				svg:fill="#FFFFEF"
+
+				border-line-width="0pt"
+
+				line-class="org.xmind.branchConnection.elbow"
+				line-width="2pt"
+				line-color="#FFFFEF"
+
+				fo:margin-left="1pt"
+				fo:margin-right="1pt"
+				fo:margin-top="1pt"
+				fo:margin-bottom="1pt"
+				spacing-major="12pt"
 				spacing-minor="1pt"
 			/>
 		</style>
@@ -431,7 +614,7 @@
 				fo:margin-top="4pt"
 				fo:margin-bottom="4pt"
 				spacing-major="12pt"
-				spacing-minor="1pt"
+				spacing-minor="12pt"
 			/>
 		</style>
 
@@ -613,7 +796,7 @@
 	</automatic-styles>
 
 	<master-styles>
-		<style id="240us53goh3mahtajnu5qghriv" name="Plain" type="theme">
+		<style id="240us53goh3mahtajnu5qghriv" name="Plain [Map]" type="theme">
 			<theme-properties>
 				<!-- Map - Flat : Light -->
 				<default-style style-family="map" style-id="3f561rpjd034f8ds6l8o92sh21"/>
@@ -628,7 +811,22 @@
 				<default-style style-family="relationship" style-id="76qbkkd0fb0eg3fcusjommfu1m"/>
 			</theme-properties>
 		</style>
-		<style id="5bf5u5n6cdb1es70lf6pm33vjh" name="Plain : Borderless" type="theme">
+		<style id="4kmddmsmqfi3mt26d5i0kll460" name="Plain [Org-Tree]" type="theme">
+			<theme-properties>
+				<!-- Map - Flat : Light -->
+				<default-style style-family="map" style-id="3f561rpjd034f8ds6l8o92sh21"/>
+				<default-style style-family="centralTopic" style-id="4frnuf8l034ofml0vrashrd5fh"/>
+				<default-style style-family="mainTopic" style-id="376ug77u1af3huekaabjh4ai9v"/>
+				<default-style style-family="subTopic" style-id="09vn1t9iv17vg9jvlijcbusvqg"/>
+				<default-style style-family="boundary" style-id="1b3jjr2h62c3h343if58cvrap1"/>
+				<default-style style-family="summary" style-id="3huddlvp1e7af09snhre7j0j0f"/>
+				<default-style style-family="summaryTopic" style-id="424i1cd9uamf1mc8v42d5l5f35"/>
+				<default-style style-family="floatingTopic" style-id="376ug77u1af3huekaabjh4ai9v"/>
+				<default-style style-family="calloutTopic" style-id="3d9sdi0f63hq2lad6oa15koach"/>
+				<default-style style-family="relationship" style-id="76qbkkd0fb0eg3fcusjommfu1m"/>
+			</theme-properties>
+		</style>
+		<style id="5bf5u5n6cdb1es70lf6pm33vjh" name="Plain : Borderless [Map]" type="theme">
 			<theme-properties>
 				<!-- Map - Flat : Midtone -->
 				<default-style style-family="map" style-id="5f2h0494s7mkg22kk5cg0kprvm"/>
@@ -643,7 +841,22 @@
 				<default-style style-family="relationship" style-id="76qbkkd0fb0eg3fcusjommfu1m"/>
 			</theme-properties>
 		</style>
-		<style id="0a8r30gl5j187d0s0c76ocecgv" name="Filesystem" type="theme">
+		<style id="78s6aqs29637fk7irb9a444r89" name="Plain : Borderless [Org-Tree]" type="theme">
+			<theme-properties>
+				<!-- Map - Flat : Midtone -->
+				<default-style style-family="map" style-id="5f2h0494s7mkg22kk5cg0kprvm"/>
+				<default-style style-family="centralTopic" style-id="5u9lsjoir3undddtud9f5odml8"/>
+				<default-style style-family="mainTopic" style-id="3pdr1q3qvkp51tv6umfk2tl9r3"/>
+				<default-style style-family="subTopic" style-id="2c401ai6q8e7t2elmo08kumh26"/>
+				<default-style style-family="boundary" style-id="1b3jjr2h62c3h343if58cvrap1"/>
+				<default-style style-family="summary" style-id="3huddlvp1e7af09snhre7j0j0f"/>
+				<default-style style-family="summaryTopic" style-id="56fntlo718e38gnasg39a70mc7"/>
+				<default-style style-family="floatingTopic" style-id="3pdr1q3qvkp51tv6umfk2tl9r3"/>
+				<default-style style-family="calloutTopic" style-id="2rvidgdr7ttipapftl8oeaccje"/>
+				<default-style style-family="relationship" style-id="76qbkkd0fb0eg3fcusjommfu1m"/>
+			</theme-properties>
+		</style>
+		<style id="0a8r30gl5j187d0s0c76ocecgv" name="Filesystem [Org-Tree]" type="theme">
 			<theme-properties>
 				<!-- Map - Flat : Dark -->
 				<default-style style-family="map" style-id="6hoq65di5g1cmdr2sagvbhv1pn"/>

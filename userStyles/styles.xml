@@ -6,7 +6,7 @@
 	version="2.0"
 >
 	<styles>
-		<style id="186b49mrvhj9vhs495ghghilg0" name="Filesystem : Directory" type="topic">
+		<style id="186b49mrvhj9vhs495ghghilg0" name="Filesystem [Org-Tree] : Directory" type="topic">
 			<topic-properties
 				fo:font-family="Roboto"
 				fo:font-size="8pt"
@@ -34,7 +34,7 @@
 				spacing-minor="1pt"
 			/>
 		</style>
-		<style id="48qi3jheepu02bb2m7bit8bld0" name="Filesystem : File" type="topic">
+		<style id="48qi3jheepu02bb2m7bit8bld0" name="Filesystem [Org-Tree] : File" type="topic">
 			<topic-properties
 				fo:font-family="Roboto"
 				fo:font-size="8pt"
@@ -62,7 +62,7 @@
 				spacing-minor="1pt"
 			/>
 		</style>
-		<style id="6honbcnh4cihtema40giekmb3s" name="Filesystem : Symlink" type="topic">
+		<style id="6honbcnh4cihtema40giekmb3s" name="Filesystem [Org-Tree] : Symlink" type="topic">
 			<topic-properties
 				fo:font-family="Roboto"
 				fo:font-size="8pt"
@@ -90,7 +90,7 @@
 				spacing-minor="1pt"
 			/>
 		</style>
-		<style id="1gdffpg7281b3jfrk9dfulrrau" name="Filesystem : Mountpoint (Disk)" type="topic">
+		<style id="1gdffpg7281b3jfrk9dfulrrau" name="Filesystem [Org-Tree] : Mountpoint (Disk)" type="topic">
 			<topic-properties
 				fo:font-family="Roboto"
 				fo:font-size="8pt"
@@ -119,7 +119,7 @@
 				spacing-minor="1pt"
 			/>
 		</style>
-		<style id="265ikg7q3553097leb4lpiv07d" name="Filesystem : Mountpoint (System)" type="topic">
+		<style id="265ikg7q3553097leb4lpiv07d" name="Filesystem [Org-Tree] : Mountpoint (System)" type="topic">
 			<topic-properties
 				fo:font-family="Roboto"
 				fo:font-size="8pt"
@@ -148,7 +148,7 @@
 				spacing-minor="1pt"
 			/>
 		</style>
-		<style id="2cm5tdq2pltckb4p4mb1hj57vu" name="Filesystem : Mountpoint (tmpfs)" type="topic">
+		<style id="2cm5tdq2pltckb4p4mb1hj57vu" name="Filesystem [Org-Tree] : Mountpoint (tmpfs)" type="topic">
 			<topic-properties
 				fo:font-family="Roboto"
 				fo:font-size="8pt"
@@ -178,7 +178,7 @@
 			/>
 		</style>
 
-		<style id="5r1uato30k578vk04g5oahjfn9" name="Filesystem : Symlink" type="relationship">
+		<style id="5r1uato30k578vk04g5oahjfn9" name="Filesystem [Org-Tree] : Symlink" type="relationship">
 			<relationship-properties
 				fo:font-family="Roboto"
 				fo:font-size="8pt"
@@ -197,7 +197,7 @@
 				line-color="#00AFAF"
 			/>
 		</style>
-		<style id="1eeklqpcfpdrlt4ktv8nc26b7a" name="Filesystem : Hardlink" type="relationship">
+		<style id="1eeklqpcfpdrlt4ktv8nc26b7a" name="Filesystem [Org-Tree] : Hardlink" type="relationship">
 			<relationship-properties
 				fo:font-family="Roboto"
 				fo:font-size="8pt"
@@ -216,7 +216,7 @@
 				line-color="#BFBFBF"
 			/>
 		</style>
-		<style id="3ck6gkvqvf7ujna3f63m6r5u43" name="Filesystem : Mountpoint (Disk)" type="relationship">
+		<style id="3ck6gkvqvf7ujna3f63m6r5u43" name="Filesystem [Org-Tree] : Mountpoint (Disk)" type="relationship">
 			<relationship-properties
 				fo:font-family="Roboto"
 				fo:font-size="8pt"
@@ -235,7 +235,7 @@
 				line-color="#00BF00"
 			/>
 		</style>
-		<style id="2g5n6s7cs5lnfbqlir8n08v9pl" name="Filesystem : Mountpoint (System)" type="relationship">
+		<style id="2g5n6s7cs5lnfbqlir8n08v9pl" name="Filesystem [Org-Tree] : Mountpoint (System)" type="relationship">
 			<relationship-properties
 				fo:font-family="Roboto"
 				fo:font-size="8pt"
@@ -254,7 +254,7 @@
 				line-color="#BF0000"
 			/>
 		</style>
-		<style id="55uno2q63r3j0ftia5gl1g6bkq" name="Filesystem : Mountpoint (tmpfs)" type="relationship">
+		<style id="55uno2q63r3j0ftia5gl1g6bkq" name="Filesystem [Org-Tree] : Mountpoint (tmpfs)" type="relationship">
 			<relationship-properties
 				fo:font-family="Roboto"
 				fo:font-size="8pt"
@@ -273,7 +273,7 @@
 				line-color="#BF00BF"
 			/>
 		</style>
-		<style id="6r4d8knc20uliqak5te1f8dsi7" name="Filesystem : worktree" type="relationship">
+		<style id="6r4d8knc20uliqak5te1f8dsi7" name="Filesystem [Org-Tree] : worktree" type="relationship">
 			<relationship-properties
 				fo:font-family="Roboto"
 				fo:font-size="8pt"

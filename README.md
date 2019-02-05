@@ -2,11 +2,18 @@
 
 ## Themes
 
-### Plain
+> [Map] - Optimized for **Map** and **Ballanced Map** structures
+> [Org-Tree] - Optimized for **Org Chart** central topic with **Tree Chart** main and sub-topics structures
 
-### Plain : Borderless
+### Plain [Map]
 
-### Filesystem
+### Plain [Org-Tree]
+
+### Plain : Borderless [Map]
+
+### Plain : Borderless [Org-Tree]
+
+### Filesystem [Org-Tree]
 
 Includes styles for:
 
