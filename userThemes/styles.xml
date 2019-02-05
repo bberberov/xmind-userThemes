@@ -205,7 +205,7 @@
 				fo:text-align="left"
 				fo:text-transform="manual"
 
-				shape-class="org.xmind.topicShape.roundedRect"
+				shape-class="org.xmind.topicShape.rect"
 				svg:fill="#FFFFEF"
 
 				border-line-width="0pt"
