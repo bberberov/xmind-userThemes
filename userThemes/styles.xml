@@ -71,7 +71,7 @@
 			/>
 		</style>
 
-		<!-- Main Topic - Plain -->
+		<!-- Main + Floating Topic - Plain -->
 		<style id="6b4273mbaslmf4umrhomv8r2b1" type="topic">
 			<topic-properties
 				fo:font-family="Roboto"
@@ -163,7 +163,7 @@
 			/>
 		</style>
 
-		<!-- Main Topic - Plain : Borderless -->
+		<!-- Main + Floating Topic - Plain : Borderless -->
 		<style id="4tcu4v3c5p2j23s2sn3dfbn9r9" type="topic">
 			<topic-properties
 				fo:font-family="Roboto"
@@ -223,7 +223,7 @@
 			/>
 		</style>
 
-		<!-- Boundary - Plain -->
+		<!-- Boundary - Plain + Plain : Borderless -->
 		<style id="1b3jjr2h62c3h343if58cvrap1" type="boundary">
 			<boundary-properties
 				fo:font-family="Roboto"
@@ -245,7 +245,7 @@
 			/>
 		</style>
 
-		<!-- Symmary - Plain -->
+		<!-- Symmary - Plain + Plain : Borderless -->
 		<style id="3huddlvp1e7af09snhre7j0j0f" type="summary">
 			<summary-properties
 				shape-class="org.xmind.summaryShape.square"
@@ -315,7 +315,7 @@
 			/>
 		</style>
 
-		<!-- Floating Topic - Plain -->
+		<!-- Floating Topic -->
 <!--
 		<style id="00000000000000000000000000" type="topic">
 			<topic-properties />
@@ -369,7 +369,7 @@
 			/>
 		</style>
 
-		<!-- Relationship - Plain -->
+		<!-- Relationship - Plain + Plain : Borderless -->
 		<style id="76qbkkd0fb0eg3fcusjommfu1m" type="relationship">
 			<relationship-properties
 				fo:font-family="Roboto"
@@ -421,7 +421,8 @@
 			/>
 		</style>
 
-		<!-- Main and Floating Topic - Filesystem : Mountpoint (Disk) -->
+		<!-- Main + Floating Topic - Filesystem -->
+		<!-- Same as Filesystem : Mountpoint (Disk) userStyle -->
 		<style id="3hvdi2hqjn9ddk64poc7ogn7h8" type="topic">
 			<topic-properties
 				fo:font-family="Roboto"
@@ -452,7 +453,8 @@
 			/>
 		</style>
 
-		<!-- Sub-Topic - Filesystem : Directory -->
+		<!-- Sub-Topic - Filesystem -->
+		<!-- Same as Filesystem : Directory userStyle -->
 		<style id="6niejnlkg4dh2vp6g20caps3a5" type="topic">
 			<topic-properties
 				fo:font-family="Roboto"
@@ -566,7 +568,8 @@
 			/>
 		</style>
 
-		<!-- Relationship - Filesystem : Symlink -->
+		<!-- Relationship - Filesystem -->
+		<!-- Same as Filesystem : Symlink userStyle -->
 		<style id="17h51jq9t3q1hj9vju1tr4kbum" type="relationship">
 			<relationship-properties
 				fo:font-family="Roboto"
@@ -624,17 +627,13 @@
 				<!-- Map - Flat : Dark -->
 				<default-style style-family="map" style-id="6hoq65di5g1cmdr2sagvbhv1pn"/>
 				<default-style style-family="centralTopic" style-id="77djqteu38bfcc9shiboiu18f3"/>
-				<!-- Main and Floating Topic - Filesystem : Mountpoint (Disk) -->
 				<default-style style-family="mainTopic" style-id="3hvdi2hqjn9ddk64poc7ogn7h8"/>
-				<!-- Sub-Topic - Filesystem : Directory -->
 				<default-style style-family="subTopic" style-id="6niejnlkg4dh2vp6g20caps3a5"/>
 				<default-style style-family="boundary" style-id="07b78vbjh7a50qaujkt2dpqhn9"/>
 				<default-style style-family="summary" style-id="4egq8cu2berf9aph9dcj9isj93"/>
 				<default-style style-family="summaryTopic" style-id="7bme6m4qmmklk444o827qdh3vf"/>
-				<!-- Main and Floating Topic - Filesystem : Mountpoint (Disk) -->
 				<default-style style-family="floatingTopic" style-id="3hvdi2hqjn9ddk64poc7ogn7h8"/>
 				<default-style style-family="calloutTopic" style-id="7nikqtfbs0f6iiticanaj43ecd"/>
-				<!-- Relationship - Filesystem : Symlink -->
 				<default-style style-family="relationship" style-id="17h51jq9t3q1hj9vju1tr4kbum"/>
 			</theme-properties>
 		</style>
