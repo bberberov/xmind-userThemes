@@ -59,7 +59,7 @@
 				border-line-color="#0F0F0F"
 
 				line-class="org.xmind.branchConnection.curve"
-				line-width="2pt"
+				line-width="3pt"
 				line-color="#0F0F0F"
 
 				fo:margin-left="18pt"
@@ -67,7 +67,7 @@
 				fo:margin-top="18pt"
 				fo:margin-bottom="18pt"
 				spacing-major="48pt"
-				spacing-minor="-4pt"
+				spacing-minor="2pt"
 			/>
 		</style>
 
@@ -151,7 +151,7 @@
 				border-line-width="0pt"
 
 				line-class="org.xmind.branchConnection.curve"
-				line-width="2pt"
+				line-width="3pt"
 				line-color="#FFFFEF"
 
 				fo:margin-left="18pt"
@@ -159,7 +159,7 @@
 				fo:margin-top="18pt"
 				fo:margin-bottom="18pt"
 				spacing-major="48pt"
-				spacing-minor="-4pt"
+				spacing-minor="2pt"
 			/>
 		</style>
 
