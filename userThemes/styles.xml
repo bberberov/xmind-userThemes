@@ -346,6 +346,29 @@
 			/>
 		</style>
 
+		<!-- Callout Topic - Plain : Borderless -->
+		<style id="2rvidgdr7ttipapftl8oeaccje" type="topic">
+			<topic-properties
+				fo:font-family="Roboto"
+				fo:font-size="8pt"
+				fo:font-weight="normal"
+				fo:font-style="normal"
+				fo:text-decoration="none"
+				fo:color="#0F0F0F"
+				fo:text-align="left"
+				fo:text-transform="manual"
+
+				callout-shape-class="org.xmind.calloutTopicShape.balloon.roundedRect"
+				svg:fill="#FFFF9F"
+
+				border-line-width="0pt"
+
+				line-class="org.xmind.branchConnection.roundedElbow"
+				line-width="2pt"
+				line-color="#0F0F0F"
+			/>
+		</style>
+
 		<!-- Relationship - Plain -->
 		<style id="76qbkkd0fb0eg3fcusjommfu1m" type="relationship">
 			<relationship-properties
@@ -592,7 +615,7 @@
 				<default-style style-family="summary" style-id="3huddlvp1e7af09snhre7j0j0f"/>
 				<default-style style-family="summaryTopic" style-id="56fntlo718e38gnasg39a70mc7"/>
 				<default-style style-family="floatingTopic" style-id="4tcu4v3c5p2j23s2sn3dfbn9r9"/>
-				<default-style style-family="calloutTopic" style-id="3d9sdi0f63hq2lad6oa15koach"/>
+				<default-style style-family="calloutTopic" style-id="2rvidgdr7ttipapftl8oeaccje"/>
 				<default-style style-family="relationship" style-id="76qbkkd0fb0eg3fcusjommfu1m"/>
 			</theme-properties>
 		</style>
