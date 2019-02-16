@@ -1,8 +1,11 @@
 # [XMind](https://github.com/xmindltd/xmind) custom themes and styles
 
+![screenshot](screenshot.png)
+
 ## Themes
 
 > [Map] - Optimized for **Map** and **Ballanced Map** structures
+>
 > [Org-Tree] - Optimized for **Org Chart** central topic with **Tree Chart** main and sub-topics structures
 
 ### Plain [Map]
@@ -26,7 +29,7 @@ Includes styles for:
 -	Links
 	-	Soft
 	-	Hard
--	Worktree (`git`, `hg` `bzr`, etc.)
+-	Worktree (`git`, `hg`, `bzr`, etc.)
 
 ## Requirements
 
