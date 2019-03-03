@@ -587,6 +587,27 @@
 			/>
 		</style>
 
+		<!-- Relationship - Plain + Plain : Borderless [Org-Tree] -->
+		<style id="4cspt932uvshv74toj80cj1bno" type="relationship">
+			<relationship-properties
+				fo:font-family="Roboto"
+				fo:font-size="8pt"
+				fo:font-weight="normal"
+				fo:font-style="normal"
+				fo:text-decoration="none"
+				fo:color="#0F0F0F"
+				fo:text-align="left"
+
+				shape-class="org.xmind.relationshipShape.zigzag"
+				arrow-begin-class="org.xmind.arrowShape.dot"
+				arrow-end-class="org.xmind.arrowShape.triangle"
+
+				line-pattern="solid"
+				line-width="3pt"
+				line-color="#0F0F0F"
+			/>
+		</style>
+
 
 		<!-- Central Topic - Filesystem -->
 		<style id="77djqteu38bfcc9shiboiu18f3" type="topic">
@@ -823,7 +844,7 @@
 				<default-style style-family="summaryTopic" style-id="424i1cd9uamf1mc8v42d5l5f35"/>
 				<default-style style-family="floatingTopic" style-id="376ug77u1af3huekaabjh4ai9v"/>
 				<default-style style-family="calloutTopic" style-id="3d9sdi0f63hq2lad6oa15koach"/>
-				<default-style style-family="relationship" style-id="76qbkkd0fb0eg3fcusjommfu1m"/>
+				<default-style style-family="relationship" style-id="4cspt932uvshv74toj80cj1bno"/>
 			</theme-properties>
 		</style>
 		<style id="5bf5u5n6cdb1es70lf6pm33vjh" name="Plain : Borderless [Map]" type="theme">
@@ -853,7 +874,7 @@
 				<default-style style-family="summaryTopic" style-id="56fntlo718e38gnasg39a70mc7"/>
 				<default-style style-family="floatingTopic" style-id="3pdr1q3qvkp51tv6umfk2tl9r3"/>
 				<default-style style-family="calloutTopic" style-id="2rvidgdr7ttipapftl8oeaccje"/>
-				<default-style style-family="relationship" style-id="76qbkkd0fb0eg3fcusjommfu1m"/>
+				<default-style style-family="relationship" style-id="4cspt932uvshv74toj80cj1bno"/>
 			</theme-properties>
 		</style>
 		<style id="0a8r30gl5j187d0s0c76ocecgv" name="Filesystem [Org-Tree]" type="theme">
