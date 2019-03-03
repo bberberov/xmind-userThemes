@@ -577,7 +577,7 @@
 				fo:color="#0F0F0F"
 				fo:text-align="left"
 
-				shape-class="org.xmind.relationshipShape.curved"
+				shape-class="org.xmind.relationshipShape.straight"
 				arrow-begin-class="org.xmind.arrowShape.dot"
 				arrow-end-class="org.xmind.arrowShape.triangle"
 
